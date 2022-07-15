@@ -1,4 +1,5 @@
 - Hi, I'm @nbert71 👋
+- I'm currently an IT student in Centrale Marseille
 - 📫 You can reach me at [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/nicolas-bert-1a2a8a206/)
 - ![](https://komarev.com/ghpvc/?username=nbert71)
 
